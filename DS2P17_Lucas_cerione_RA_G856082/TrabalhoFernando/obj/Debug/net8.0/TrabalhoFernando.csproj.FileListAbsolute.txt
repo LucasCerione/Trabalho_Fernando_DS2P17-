@@ -1,0 +1,28 @@
+C:\Users\narus\OneDrive\Área de Trabalho\C#\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\TrabalhoFernando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narus\OneDrive\Área de Trabalho\C#\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\TrabalhoFernando.AssemblyInfoInputs.cache
+C:\Users\narus\OneDrive\Área de Trabalho\C#\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\TrabalhoFernando.AssemblyInfo.cs
+C:\Users\narus\OneDrive\Área de Trabalho\C#\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\TrabalhoFernando.csproj.CoreCompileInputs.cache
+C:\Users\narus\OneDrive\Área de Trabalho\C#\TrabalhoFernando\TrabalhoFernando\bin\Debug\net8.0\TrabalhoFernando.exe
+C:\Users\narus\OneDrive\Área de Trabalho\C#\TrabalhoFernando\TrabalhoFernando\bin\Debug\net8.0\TrabalhoFernando.deps.json
+C:\Users\narus\OneDrive\Área de Trabalho\C#\TrabalhoFernando\TrabalhoFernando\bin\Debug\net8.0\TrabalhoFernando.runtimeconfig.json
+C:\Users\narus\OneDrive\Área de Trabalho\C#\TrabalhoFernando\TrabalhoFernando\bin\Debug\net8.0\TrabalhoFernando.dll
+C:\Users\narus\OneDrive\Área de Trabalho\C#\TrabalhoFernando\TrabalhoFernando\bin\Debug\net8.0\TrabalhoFernando.pdb
+C:\Users\narus\OneDrive\Área de Trabalho\C#\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\TrabalhoFernando.dll
+C:\Users\narus\OneDrive\Área de Trabalho\C#\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\refint\TrabalhoFernando.dll
+C:\Users\narus\OneDrive\Área de Trabalho\C#\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\TrabalhoFernando.pdb
+C:\Users\narus\OneDrive\Área de Trabalho\C#\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\TrabalhoFernando.genruntimeconfig.cache
+C:\Users\narus\OneDrive\Área de Trabalho\C#\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\ref\TrabalhoFernando.dll
+C:\Users\Pichau\OneDrive\Desktop\TrabalhoFernando\TrabalhoFernando\bin\Debug\net8.0\TrabalhoFernando.exe
+C:\Users\Pichau\OneDrive\Desktop\TrabalhoFernando\TrabalhoFernando\bin\Debug\net8.0\TrabalhoFernando.deps.json
+C:\Users\Pichau\OneDrive\Desktop\TrabalhoFernando\TrabalhoFernando\bin\Debug\net8.0\TrabalhoFernando.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Desktop\TrabalhoFernando\TrabalhoFernando\bin\Debug\net8.0\TrabalhoFernando.dll
+C:\Users\Pichau\OneDrive\Desktop\TrabalhoFernando\TrabalhoFernando\bin\Debug\net8.0\TrabalhoFernando.pdb
+C:\Users\Pichau\OneDrive\Desktop\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\TrabalhoFernando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Desktop\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\TrabalhoFernando.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\TrabalhoFernando.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\TrabalhoFernando.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\TrabalhoFernando.dll
+C:\Users\Pichau\OneDrive\Desktop\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\refint\TrabalhoFernando.dll
+C:\Users\Pichau\OneDrive\Desktop\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\TrabalhoFernando.pdb
+C:\Users\Pichau\OneDrive\Desktop\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\TrabalhoFernando.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Desktop\TrabalhoFernando\TrabalhoFernando\obj\Debug\net8.0\ref\TrabalhoFernando.dll
